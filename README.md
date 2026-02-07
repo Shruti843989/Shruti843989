@@ -1,4 +1,4 @@
-## Hi there 👋 I am Tulika Anand
+## Hi there 👋 I am Shruti Aggarwal
 
 
 Aspiring software developer focused on DSA and AI/ML. 
