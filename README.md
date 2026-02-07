@@ -6,7 +6,7 @@ Working with Python and Java to strengthen problem-solving skills
 and build impactful projects 🚀
 
 ### 🌐 Socials:
-### 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
 [![X](https://img.shields.io/badge/X-black?logo=x&logoColor=white)](https://x.com/YOUR_USERNAME)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
