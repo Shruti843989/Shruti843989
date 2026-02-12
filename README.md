@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there 👋 I am Shruti Aggarwal
+## Hi there 👋 I am Shruti Aggarwal!!
 
 
 Aspiring software developer focused on DSA and AI/ML. 
