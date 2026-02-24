@@ -49,7 +49,7 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Status:
 
 ![](https://github-readme-stats.vercel.app/api?username=Shruti843989&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
