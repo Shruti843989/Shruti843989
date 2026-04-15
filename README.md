@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there 👋 I am Shruti Aggarwal..!!!
+## Hi there 👋 I am Shruti Aggarwal..
 
 💻 Aspiring Software Developer passionate about building scalable and intelligent solutions.  
 🚀 Currently strengthening my skills in Data Structures & Algorithms and AI/ML.  
