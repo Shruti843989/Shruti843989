@@ -24,6 +24,7 @@
 ![Java](https://img.shields.io/badge/Java-orange?logo=java)
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green)
 
 #### 🌐 Web Technologies:
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
